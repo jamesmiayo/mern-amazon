@@ -1,5 +1,4 @@
 {
-  "homepage": "melodious-croquembouche-ed3d4a.netlify.app",
   "name": "frontend",
   "proxy": "http://localhost:10000",
   "version": "0.1.0",
