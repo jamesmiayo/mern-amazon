@@ -56,7 +56,7 @@ function App() {
   }, []);
 
   return (
-    <BrowserRouter basename="https://amazona-by-basir.onrender.com">
+    <BrowserRouter>
       <div
         className={
           sidebarIsOpen
